@@ -38,7 +38,7 @@ const Details = () => {
         </section>
 
         <section className="flex max-sm:flex-col max-sm:items-center justify-between">
-          <aside className="font-montserrat text-white flex flex-col gap-y-6 max-sm:w-full max-md:w-1/2 order-last">
+          <aside className="font-montserrat text-white flex flex-col gap-y-6 max-sm:w-full max-md:w-1/2 max-sm:order-last">
             <h1 className="text-6xl lg:text-8xl 2xl:text-[200px] font-extrabold bg-gradient-to-b from-teal to-green bg-clip-text text-transparent max-sm:text-center">
               2
             </h1>
